@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalvoBevilacqua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -39,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
 </div>
 
 ###
@@ -51,11 +50,12 @@
   <a href="https://www.linkedin.com/in/salvatore-bevilacqua-/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.behance.net/salvatorebf759">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/SalvoBevilacqua/SalvoBevilacqua/output/snake.svg" alt="Snake animation" />
 
